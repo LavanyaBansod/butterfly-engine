@@ -1,4 +1,4 @@
-# 🦋 The Bond Engine: Real-Time Identity Resolution
+# 🦋 Butterfly Engine: Real-Time Identity Resolution
 
 The **Bond Engine** is a data pipeline built to bridge the gap between anonymous web visitors and identified user profiles. This project features a **Retroactive Identity Stitching** system that connects a user's past browsing history to their identity the moment they sign up or check out.
 
