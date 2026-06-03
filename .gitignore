@@ -1,17 +1,32 @@
-# Python temporary files
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
+*.pyc
+*.pyo
+*.pyd
 
-# Environments
+# Virtual Environment
 venv/
-env/
-.env
+.venv/
 
-# Databases (We don't upload the actual data, just the code!)
+# Database
 *.db
 *.sqlite3
-*.sqbpro
 
-# OS stuff
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS Files
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# DB Browser project files
+*.sqbpro
