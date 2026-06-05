@@ -69,5 +69,5 @@ If this were expanded for a massive company, the tools would grow into:
 
 ### 📊 The Intelligence (Dashboard)
 
-![Bond Engine Dashboard](assets/dashboard-demo.png)
+![Bond Engine Dashboard](docs/dashboard-demo.png)
    
